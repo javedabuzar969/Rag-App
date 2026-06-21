@@ -1,0 +1,4 @@
+chromadb
+cohere
+python-dotenv
+pypdf
